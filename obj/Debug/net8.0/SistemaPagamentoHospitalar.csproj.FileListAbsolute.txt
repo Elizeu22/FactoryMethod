@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\bin\Debug\net8.0\SistemaPagamentoHospitalar.exe
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\bin\Debug\net8.0\SistemaPagamentoHospitalar.deps.json
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\bin\Debug\net8.0\SistemaPagamentoHospitalar.runtimeconfig.json
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\bin\Debug\net8.0\SistemaPagamentoHospitalar.dll
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\bin\Debug\net8.0\SistemaPagamentoHospitalar.pdb
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.dll
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\refint\SistemaPagamentoHospitalar.dll
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.pdb
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\SistemaPagamentoHospitalar.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Factory-Method\Exercicio-FactoryMethod\SistemaPagamentoHospitalar\obj\Debug\net8.0\ref\SistemaPagamentoHospitalar.dll
